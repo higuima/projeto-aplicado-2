@@ -19,6 +19,4 @@ Utilizamos os dados da base de [sentimento de tweets](https://www.kaggle.com/dat
 
 ### Links do projeto:
 
-- [Vídeo explicativo do projeto]()
-- [Relatório completo]()
-- [Apresentação power point]() 
+- [Vídeo explicativo do projeto](https://www.youtube.com/watch?v=KQDJ9huDLeE&ab_channel=HelenaGuimar%C3%A3es)
