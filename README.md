@@ -1,4 +1,4 @@
-# Análise de tendêrncia nas mídias sociais - Projeto Aplicado 2 - Universidade Presbiteriana Mackenzie
+# Análise de tendência nas mídias sociais - Projeto Aplicado 2 - Universidade Presbiteriana Mackenzie
 
 > :warning: **Para melhor visualização dos arquivos contidos neste repositório**: clone ele e abra-o localmente. [Tutorial de como clonar um repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
 
